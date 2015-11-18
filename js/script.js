@@ -45,6 +45,22 @@ $(document).ready(function(e) {
 	var img_loaded = 0;
 	var j_images = [];
 	
+	
+	
+	
+	
+	
+	
+
+$('.linkfix_LogIn a').on('click',function() {           
+        window.location.href = "http://www.gwwca.org";  // Change This
+});
+$('.linkfix_LogIn1 a').on('click',function() {           
+        window.location.href = "http://zicklincenter.org";  // Change This
+});
+
+
+	
 	/*************************
 	* = Controls active menu *
 	* Hover text for the last slide
